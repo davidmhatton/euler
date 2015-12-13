@@ -1,5 +1,5 @@
-__author__ = 'dhatton'
 # !/usr/bin/python
+__author__ = 'dhatton'
 
 multiples = []
 
